@@ -8,7 +8,7 @@ Throughout the 2-week sprint, we were assigned various stories to complete. In a
 This project's main focus was implementing CRUD Functionality: create, read, update, and delete. Each story represented one of the four CRUD operations components.
 
 ### Story 1: Building the Basic App
-I created an app within the existing project using CommandLine and registering the app with the main project. I also created base and home templates with will build the basic front-end of my app's homepage.
+I created an app within the existing project using CommandLine and registering the app with the main project. I also created base and home templates which will build the basic front-end of my app's homepage.
 
 ### Story 2: Create the Model
 I created a database model for the app I am building: a collection of Portland, OR's best restaurant dishes. After creating the model, I created a model form to take in user input and a view function to render that form on the page and save the input into the database. 
